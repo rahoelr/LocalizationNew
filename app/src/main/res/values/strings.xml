@@ -1,0 +1,29 @@
+<resources>
+    <!-- All comments are notes to translators. -->
+    <string name="app_name">LocaleText</string>
+
+    <!-- The Help option in the options menu, no more than 30 chars. -->
+    <string name="action_help">Help</string>
+
+    <string name="action_language">Language</string>
+
+    <string name="expired_label">Expired Date</string>
+
+    <!-- The description includes a parenthetical expression.  -->
+    <string name="description">Soto ayam is a traditional Indonesian dish which uses ingredients such as chicken, lontong, noodles, and rice vermicelli. Soto ayam is popular in Singapore, Malaysia and Suriname. Turmeric is added as one of its main ingredients which makes the yellow chicken broth. </string>
+
+    <!-- The product name includes "Package" to define a pack.  -->
+    <string name="soto">Soto Ayam Pak No</string>
+
+    <!-- Do not translate.  -->
+    <string name="support_phone" translatable="false">+14155551212</string>
+
+    <!-- Support Department should be capitalized.  -->
+    <string name="help_text">If you need help, contact our Support Department.</string>
+
+    <!-- Do not translate.  -->
+    <string name="dial_log_message">Can\'t resolve app for ACTION_DIAL Intent.</string>
+    <string name="hitung">Count</string>
+    <string name="harga_per_item">Price Per Item :</string>
+    <string name="harga_per_100_pax">Price Per 100 Pax:</string>
+</resources>
